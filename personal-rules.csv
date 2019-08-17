@@ -18,6 +18,7 @@
 *.alibaba.com , Alibaba
 *.alibabacloud.com , Alibaba
 *.alibabagroup.com , Alibaba
+*.alicdn.com , Alibaba
 *.aliexpress.com , Alibaba
 *.alimama.com , Alibaba
 *.alios.cn , Alibaba
@@ -76,6 +77,7 @@
 *.audible.com , Amazon
 *.awscloud.com , Amazon
 *.awsevents.com , Amazon
+*.bankleumi.co.il , Finance
 *.blog.google , Google
 *.blogger.com , Google
 *.blogspot.ae , Google
@@ -546,5 +548,6 @@
 *.zappos.com , Amazon
 accounts.google.co.il , Gmail
 accounts.google.com , Gmail
+halman.financezone.co.il , Finance
 mail.google.com , Gmail
 myaccount.google.com , Gmail
