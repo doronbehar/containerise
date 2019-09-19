@@ -1,4 +1,5 @@
 
+*.*.akamaihd.net , Facebook (real)
 *.1688.com , Alibaba
 *.1e100.net , Google
 *.466453.com , Google
@@ -73,7 +74,7 @@
 *.amzn.to , Amazon
 *.android.com , Google
 *.api.twitter.com , Twitter
-*.atdmt.com , Facebook
+*.atdmt.com , Facebook (real)
 *.audible.com , Amazon
 *.awscloud.com , Amazon
 *.awsevents.com , Amazon
@@ -158,7 +159,7 @@
 *.boxofficemojo.com , Amazon
 *.calicolabs.com , Google
 *.capitalg.com , Google
-*.cdninstagram.com , Facebook
+*.cdninstagram.com , Facebook (real)
 *.chrome.com , Google
 *.chromebook.com , Google
 *.chromecast.com , Google
@@ -166,7 +167,7 @@
 *.cobrasearch.com , Google
 *.com.google , Google
 *.comixology.com , Amazon
-*.connect.facebook.net.edgekey.net , Facebook
+*.connect.facebook.net.edgekey.net , Facebook (real)
 *.createspace.com , Amazon
 *.ddchong.com , Alibaba
 *.design.google , Google
@@ -216,15 +217,16 @@
 *.ebaycbt.co.kr , Ebay
 *.elgoog.im , Google
 *.fabric.com , Amazon
-*.facebook-web-clients.appspot.com , Facebook
-*.facebook.com , Facebook
-*.facebook.net , Facebook
-*.fb.com , Facebook
-*.fbcdn-profile-a.akamaihd.net , Facebook
-*.fbcdn.com , Facebook
-*.fbcdn.net , Facebook
-*.fbsbx.com , Facebook
-*.fbsbx.com.online-metrix.net , Facebook
+*.facebook-web-clients.appspot.com , Facebook (real)
+*.facebook.com , Facebook (real)
+*.facebook.net , Facebook (real)
+*.facebookcorewwwi.onion , Facebook
+*.fb.com , Facebook (real)
+*.fbcdn-profile-a.akamaihd.net , Facebook (real)
+*.fbcdn.com , Facebook (real)
+*.fbcdn.net , Facebook (real)
+*.fbsbx.com , Facebook (real)
+*.fbsbx.com.online-metrix.net , Facebook (real)
 *.feedburner.com , Google
 *.fliggy.com , Alibaba
 *.foofle.com , Google
@@ -470,29 +472,26 @@
 *.gv.com , Google
 *.igoogle.com , Google
 *.imdb.com , Amazon
-*.instagram.com , Facebook
-*.*.akamaihd.net , Facebook
-*.instagramstatic-a.akamaihd.net.edgesuite.net , Facebook
+*.instagram.com , Facebook (real)
+*.instagramstatic-a.akamaihd.net.edgesuite.net , Facebook (real)
 *.itao.com , Alibaba
 *.junglee.com , Amazon
 *.keyhole.com , Google
 *.lab126.com , Amazon
 *.like.com , Google
 *.localguidesconnect.com , Google
-*.m.me , Facebook
-*.twitter.com , Twitter
+*.m.me , Facebook (real)
 *.madewithcode.com , Google
 *.material.io , Google
-*.messenger.com , Facebook
-*.messengerdevelopers.com , Facebook
-*.twitter.com , Twitter
+*.messenger.com , Facebook (real)
+*.messengerdevelopers.com , Facebook (real)
 *.mturk.com , Amazon
 *.nest.com , Google
-*.oculus.com , Facebook
-*.oculusbrand.com , Facebook
-*.oculusforbusiness.com , Facebook
-*.oculusvr.com , Facebook
-*.onavo.com , Facebook
+*.oculus.com , Facebook (real)
+*.oculusbrand.com , Facebook (real)
+*.oculusforbusiness.com , Facebook (real)
+*.oculusvr.com , Facebook (real)
+*.onavo.com , Facebook (real)
 *.panoramio.com , Google
 *.pbs.twimg.com , Twitter
 *.picasa.com , Google
@@ -511,7 +510,7 @@
 *.t.co , Twitter
 *.taobao.com , Alibaba
 *.tenmarks.com , Amazon
-*.tfbnw.net , Facebook
+*.tfbnw.net , Facebook (real)
 *.thinkwithgoogle.com , Google
 *.tmall.com , Alibaba
 *.ton.twimg.com , Twitter
@@ -530,11 +529,11 @@
 *.withgoogle.com , Google
 *.withoutabox.com , Amazon
 *.woot.com , Amazon
-*.work.facebook.com , Facebook
-*.workplace.com , Facebook
-*.www.facebook.com , Facebook
+*.work.facebook.com , Facebook (real)
+*.workplace.com , Facebook (real)
+*.www.facebook.com , Facebook (real)
 *.www.twitter.com , Twitter
-*.www.workplace.com , Facebook
+*.www.workplace.com , Facebook (real)
 *.x.company , Google
 *.xiami.com , Alibaba
 *.youtu.be , Google
