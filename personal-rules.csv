@@ -1,4 +1,3 @@
-
 *.*.akamaihd.net , Facebook (real)
 *.1688.com , Alibaba
 *.1e100.net , Google
@@ -171,6 +170,7 @@
 *.createspace.com , Amazon
 *.ddchong.com , Alibaba
 *.design.google , Google
+*.developers.google.com , Gmail
 *.dingtalk.com , Alibaba
 *.domains.google , Google
 *.doubleclick.com , Google
@@ -453,7 +453,7 @@
 *.googlebot.com , Google
 *.googlecode.com , Google
 *.googlecommerce.com , Google
-*.googledrive.com , Google
+*.googledrive.com , Gmail
 *.googlee.com , Google
 *.googleearth.com , Google
 *.googlegroups.com , Google
@@ -465,7 +465,7 @@
 *.googlesyndication.com , Google
 *.googletagmanager.com , Google
 *.googletraveladservices.com , Google
-*.googleusercontent.com , Google
+*.googleusercontent.com , Gmail
 *.googlr.com , Google
 *.goolge.com , Google
 *.gooogle.com , Google
@@ -547,6 +547,12 @@
 *.zappos.com , Amazon
 accounts.google.co.il , Gmail
 accounts.google.com , Gmail
+docs.google.com , Gmail
+drive.google.com , Gmail
+googleusercontent.com , Gmail
 halman.financezone.co.il , Finance
 mail.google.com , Gmail
 myaccount.google.com , Gmail
+photos.google.co.il , Gmail
+photos.google.com , Gmail
+takeout.google.com , Gmail
