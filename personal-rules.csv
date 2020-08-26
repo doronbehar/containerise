@@ -170,7 +170,6 @@
 *.createspace.com , Amazon
 *.ddchong.com , Alibaba
 *.deezer.com , Deezer
-*.spotify.com , Spotify
 *.design.google , Google
 *.developers.google.com , Gmail
 *.dingtalk.com , Alibaba
@@ -508,6 +507,7 @@
 *.shopbop.com , Amazon
 *.sidewalklabs.com , Google
 *.souq.com , Amazon
+*.spotify.com , Spotify
 *.stackdriver.com , Google
 *.t.co , Twitter
 *.taobao.com , Alibaba
@@ -552,10 +552,11 @@ accounts.google.com , Gmail
 docs.google.com , Gmail
 drive.google.com , Gmail
 googleusercontent.com , Gmail
+groups.google.com , Gmail
 halman.financezone.co.il , Finance
 mail.google.com , Gmail
 myaccount.google.com , Gmail
 photos.google.co.il , Gmail
 photos.google.com , Gmail
 takeout.google.com , Gmail
-groups.google.com , Gmail
+web.whatsapp.com , WhatsApp Web

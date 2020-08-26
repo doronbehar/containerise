@@ -8,20 +8,6 @@
       "cookieNames": []
     },
     {
-      "expression": "*.alibaba.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "id": "U8Khv0-JGn",
-      "cookieNames": []
-    },
-    {
-      "expression": "*.amazon.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "id": "rl7J2FBYEV",
-      "cookieNames": []
-    },
-    {
       "expression": "*.archlinux.org",
       "listType": "WHITE",
       "storeId": "default",
@@ -69,6 +55,13 @@
       "storeId": "default",
       "cookieNames": [],
       "id": "Ycswu-qClk"
+    },
+    {
+      "expression": "*.beets.io",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "ZfpZRBER"
     },
     {
       "expression": "*.bitbucket.org",
@@ -127,6 +120,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.cachix.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "wdizMQ7Pz"
+    },
+    {
       "expression": "*.caddyserver.com",
       "listType": "WHITE",
       "storeId": "default",
@@ -155,11 +155,33 @@
       "cookieNames": []
     },
     {
+      "expression": "*.cheesefork.cf",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "1Iby9_NgO"
+    },
+    {
+      "expression": "*.codeberg.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "9K36Agqd0"
+    },
+    {
       "expression": "*.coursera.org",
       "listType": "WHITE",
       "storeId": "default",
       "cookieNames": [],
       "id": "XKuuKmg6XQn"
+    },
+    {
+      "expression": "*.cryptpad.fr",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "k9m1bNVcW"
     },
     {
       "expression": "*.darksky.net",
@@ -190,6 +212,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.discourse.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "sbNkAA_13"
+    },
+    {
       "expression": "*.docker.com",
       "listType": "WHITE",
       "storeId": "default",
@@ -211,11 +240,19 @@
       "cookieNames": []
     },
     {
-      "expression": "*.ebay.com",
+      "expression": "*.eclipse.org",
       "listType": "WHITE",
       "storeId": "default",
-      "id": "rBPSRfK1Lxq",
-      "cookieNames": []
+      "cookieNames": [],
+      "id": "8woYSWiPh"
+    },
+    {
+      "expression": "*.element.io",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "5BN7k_i--"
     },
     {
       "expression": "*.eljwdzi4pgrrlwwq.onion",
@@ -232,13 +269,6 @@
       "cookieNames": []
     },
     {
-      "expression": "*.facebook.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "id": "rR_-IhtX0b1",
-      "cookieNames": []
-    },
-    {
       "expression": "*.freedesktop.org",
       "listType": "WHITE",
       "storeId": "default",
@@ -246,25 +276,26 @@
       "cookieNames": []
     },
     {
-      "expression": "*.freelancer.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "id": "m_mRvP_Dels",
-      "cookieNames": []
-    },
-    {
-      "expression": "*.fruux.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "id": "q2o93noGAF7",
-      "cookieNames": []
-    },
-    {
       "expression": "*.gandi.net",
       "listType": "WHITE",
       "storeId": "default",
-      "id": "afPdlKaSh01",
+      "id": "NeP5MEf3I",
       "cookieNames": []
+    },
+    {
+      "expression": "*.geogebra.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "acmjrNL5m"
+    },
+    {
+      "expression": "*.ggc-project.de",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "W2jOdGNp"
     },
     {
       "expression": "*.gitbook.com",
@@ -279,6 +310,13 @@
       "storeId": "default",
       "cookieNames": [],
       "id": "8gK3nHATu"
+    },
+    {
+      "expression": "*.gitlab-static.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "2H6ifWMhU"
     },
     {
       "expression": "*.gitlab.com",
@@ -316,6 +354,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.gnupg.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "Hx7sugLBn"
+    },
+    {
       "expression": "*.gov.il",
       "listType": "WHITE",
       "storeId": "default",
@@ -344,24 +389,10 @@
       "cookieNames": []
     },
     {
-      "expression": "*.hag.co.il",
-      "listType": "WHITE",
-      "storeId": "default",
-      "id": "CLy-u4bRqlw",
-      "cookieNames": []
-    },
-    {
       "expression": "*.handshake.org",
       "listType": "WHITE",
       "storeId": "default",
       "id": "ajPiIx0QeHB",
-      "cookieNames": []
-    },
-    {
-      "expression": "*.help.sibbell.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "id": "VsYwxOFxJZj",
       "cookieNames": []
     },
     {
@@ -372,6 +403,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.huji.ac.il",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "U4TLVSr70"
+    },
+    {
       "expression": "*.id.gandi.net",
       "listType": "WHITE",
       "storeId": "default",
@@ -379,18 +417,18 @@
       "cookieNames": []
     },
     {
-      "expression": "*.imgur.com",
+      "expression": "*.intel.com",
       "listType": "WHITE",
       "storeId": "default",
-      "id": "lmo1U7IY8Gc",
-      "cookieNames": []
+      "cookieNames": [],
+      "id": "1Vzc3ta49"
     },
     {
-      "expression": "*.instagram.com",
+      "expression": "*.inthe.am",
       "listType": "WHITE",
       "storeId": "default",
-      "id": "RUVjxvyOkp6",
-      "cookieNames": []
+      "cookieNames": [],
+      "id": "gMlJfQbP9"
     },
     {
       "expression": "*.invidio.us",
@@ -400,6 +438,13 @@
       "id": "a-AjgQyRA"
     },
     {
+      "expression": "*.invidiou.sh",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "W1n3wVET"
+    },
+    {
       "expression": "*.ipfs.io",
       "listType": "WHITE",
       "storeId": "default",
@@ -407,11 +452,12 @@
       "cookieNames": []
     },
     {
-      "expression": "*.ja.stackoverflow.com",
+      "expression": "*.jami.net",
       "listType": "WHITE",
       "storeId": "default",
-      "id": "got1K3LJwn7",
-      "cookieNames": []
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "1FS89aQRH"
     },
     {
       "expression": "*.jazzradio.com",
@@ -421,11 +467,27 @@
       "cookieNames": []
     },
     {
+      "expression": "*.jit.si",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "kEGYaRrNY"
+    },
+    {
       "expression": "*.jobinfo.co.il",
       "listType": "WHITE",
       "storeId": "default",
       "cookieNames": [],
       "id": "2jVCSaC3K_5"
+    },
+    {
+      "expression": "*.julialang.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "YZkXVxbn9"
     },
     {
       "expression": "*.kolhaam.org.il",
@@ -453,13 +515,6 @@
       "listType": "WHITE",
       "storeId": "default",
       "id": "FA_CLrr3f4Z",
-      "cookieNames": []
-    },
-    {
-      "expression": "*.leumi-card.co.il",
-      "listType": "WHITE",
-      "storeId": "default",
-      "id": "kuH0C9PlBxY",
       "cookieNames": []
     },
     {
@@ -512,6 +567,13 @@
       "cookieNames": []
     },
     {
+      "expression": "*.mastodon.social",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "-R3dJXOff"
+    },
+    {
       "expression": "*.mathoverflow.net",
       "listType": "WHITE",
       "storeId": "default",
@@ -519,11 +581,25 @@
       "cookieNames": []
     },
     {
-      "expression": "*.microfocus.com",
+      "expression": "*.mathworks.com",
       "listType": "WHITE",
       "storeId": "default",
-      "id": "Y7ljc98ItVy",
-      "cookieNames": []
+      "cookieNames": [],
+      "id": "fTiKQtqI"
+    },
+    {
+      "expression": "*.metabrainz.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "EHgy5fdA7"
+    },
+    {
+      "expression": "*.microsoftonline.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "DHvT_mPsl"
     },
     {
       "expression": "*.mindrot.org",
@@ -533,18 +609,18 @@
       "cookieNames": []
     },
     {
-      "expression": "*.mkoby.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "id": "3Zu35I_sviA",
-      "cookieNames": []
-    },
-    {
       "expression": "*.mongodb.com",
       "listType": "WHITE",
       "storeId": "default",
       "id": "MAWgCTfRsL2",
       "cookieNames": []
+    },
+    {
+      "expression": "*.moodeaudio.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "l3PJWeKVt"
     },
     {
       "expression": "*.mozilla.org",
@@ -582,18 +658,19 @@
       "cookieNames": []
     },
     {
-      "expression": "*.mybrainoncode.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "id": "SFv7r2wJr9-",
-      "cookieNames": []
-    },
-    {
       "expression": "*.myetherwallet.com",
       "listType": "WHITE",
       "storeId": "default",
       "id": "bpPWGvsNbRn",
       "cookieNames": []
+    },
+    {
+      "expression": "*.nextcloud.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "4_dOFQBwc"
     },
     {
       "expression": "*.nixos.org",
@@ -617,6 +694,34 @@
       "cookieNames": []
     },
     {
+      "expression": "*.octave.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "fhuRs1ZjL"
+    },
+    {
+      "expression": "*.office.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "jc_XeX5KC"
+    },
+    {
+      "expression": "*.office365.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "eAtKGRj1A"
+    },
+    {
+      "expression": "*.opencollective.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "_BAs9hPPa"
+    },
+    {
       "expression": "*.openstreetmap.org",
       "listType": "WHITE",
       "storeId": "default",
@@ -636,6 +741,13 @@
       "storeId": "default",
       "id": "cmUtOXKn29z",
       "cookieNames": []
+    },
+    {
+      "expression": "*.osmocom.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "uZg6ImVK0"
     },
     {
       "expression": "*.ovh.com",
@@ -708,6 +820,14 @@
       "id": "GSwp7jQERsk"
     },
     {
+      "expression": "*.puri.sm",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "q2vt6_76b"
+    },
+    {
       "expression": "*.pwmt.org",
       "listType": "WHITE",
       "storeId": "default",
@@ -757,18 +877,11 @@
       "cookieNames": []
     },
     {
-      "expression": "*.robelle.com",
+      "expression": "*.sagemath.org",
       "listType": "WHITE",
       "storeId": "default",
-      "id": "ulhBwlQZRXA",
-      "cookieNames": []
-    },
-    {
-      "expression": "*.rutracker.org",
-      "listType": "WHITE",
-      "storeId": "default",
-      "id": "tbHBMyXbjX1",
-      "cookieNames": []
+      "cookieNames": [],
+      "id": "09DMrLZlv"
     },
     {
       "expression": "*.searx.me",
@@ -790,6 +903,14 @@
       "storeId": "default",
       "id": "RWBcYE6urZq",
       "cookieNames": []
+    },
+    {
+      "expression": "*.slack.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "fSOl-62em"
     },
     {
       "expression": "*.smokingpipes.com",
@@ -837,8 +958,8 @@
       "expression": "*.stackoverflow.com",
       "listType": "WHITE",
       "storeId": "default",
-      "id": "84kfCqNGQBe",
-      "cookieNames": []
+      "cookieNames": [],
+      "id": "dpdCfsFgF"
     },
     {
       "expression": "*.steampowered.com",
@@ -876,6 +997,13 @@
       "id": "601Pgnhgg"
     },
     {
+      "expression": "*.teleconsole.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "E0jpJzv1P"
+    },
+    {
       "expression": "*.theschooloflife.com",
       "listType": "WHITE",
       "storeId": "default",
@@ -897,6 +1025,14 @@
       "cookieNames": []
     },
     {
+      "expression": "*.torproject.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "YqQAU33qa"
+    },
+    {
       "expression": "*.travis-ci.org",
       "listType": "WHITE",
       "storeId": "default",
@@ -911,6 +1047,14 @@
       "id": "r9ceJn6OU"
     },
     {
+      "expression": "*.turris.cz",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "9kCH-1kdY"
+    },
+    {
       "expression": "*.tutorialspoint.com",
       "listType": "WHITE",
       "storeId": "default",
@@ -922,13 +1066,6 @@
       "listType": "WHITE",
       "storeId": "default",
       "id": "MuUYdFuWS4g",
-      "cookieNames": []
-    },
-    {
-      "expression": "*.v4.gandi.net",
-      "listType": "WHITE",
-      "storeId": "default",
-      "id": "BVJQSotcjNt",
       "cookieNames": []
     },
     {
@@ -946,18 +1083,18 @@
       "cookieNames": []
     },
     {
-      "expression": "*.web.whatsapp.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "id": "IfhctBD5ZfL",
-      "cookieNames": []
-    },
-    {
       "expression": "*.wiki.gandi.net",
       "listType": "WHITE",
       "storeId": "default",
       "id": "rZIbKiOQaO_",
       "cookieNames": []
+    },
+    {
+      "expression": "*.wikimedia.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "jfMcXANcK"
     },
     {
       "expression": "*.wikipedia.org",
@@ -1009,11 +1146,33 @@
       "cookieNames": []
     },
     {
+      "expression": "*.yewtu.be",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "xc2XwH-25"
+    },
+    {
       "expression": "*.yonirechter.net",
       "listType": "WHITE",
       "storeId": "default",
       "id": "YnXm5Qs28Wf",
       "cookieNames": []
+    },
+    {
+      "expression": "127.0.0.1",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "gDTNtq6fi"
+    },
+    {
+      "expression": "192.168.1.1",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "ESpU01YGB"
     },
     {
       "expression": "192.168.14.1",
@@ -1044,11 +1203,11 @@
       "id": "79QsR6bRk"
     },
     {
-      "expression": "airbnb.com",
+      "expression": "73c58600-f77e-4604-849a-509ad9666e84",
       "listType": "WHITE",
       "storeId": "default",
-      "id": "T6kmeJ9osC5",
-      "cookieNames": []
+      "cookieNames": [],
+      "id": "89bUNZPmK"
     },
     {
       "expression": "allo.com",
@@ -1093,6 +1252,35 @@
       "id": "OzCGvLJnLio"
     },
     {
+      "expression": "invidious.13ad.de",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "_No0WruT"
+    },
+    {
+      "expression": "kravitz.co.il",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "-KpYxOPyG"
+    },
+    {
+      "expression": "moodle2.cs.huji.ac.il",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "7VPnlhera"
+    },
+    {
+      "expression": "octave.discourse.group",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "XePd58wDG"
+    },
+    {
       "expression": "passwordsgenerator.net",
       "listType": "WHITE",
       "storeId": "default",
@@ -1121,13 +1309,6 @@
       "cookieNames": []
     },
     {
-      "expression": "vps508438.ovh.net",
-      "listType": "WHITE",
-      "storeId": "default",
-      "id": "liRV4hfDd6G",
-      "cookieNames": []
-    },
-    {
       "expression": "*.bandcamp.com",
       "listType": "GREY",
       "storeId": "default",
@@ -1135,208 +1316,143 @@
       "cookieNames": []
     }
   ],
-  "firefox-container-11": [
+  "firefox-container-7": [
     {
       "expression": "accounts.google.co.il",
       "listType": "WHITE",
-      "storeId": "firefox-container-11",
+      "storeId": "firefox-container-7",
       "cookieNames": [],
       "id": "mY_JTlv0h"
     },
     {
       "expression": "accounts.google.com",
       "listType": "WHITE",
-      "storeId": "firefox-container-11",
+      "storeId": "firefox-container-7",
       "cookieNames": [],
       "id": "w_cao3w-Q"
     },
     {
       "expression": "contacts.google.com",
       "listType": "WHITE",
-      "storeId": "firefox-container-11",
+      "storeId": "firefox-container-7",
       "cookieNames": [],
       "id": "MFzO3hEds"
     },
     {
+      "expression": "drive.google.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-7",
+      "cookieNames": [],
+      "id": "AyZxQRfyw"
+    },
+    {
       "expression": "google.co.il",
       "listType": "WHITE",
-      "storeId": "firefox-container-11",
+      "storeId": "firefox-container-7",
       "cookieNames": [],
       "id": "NIBYeEeI1"
     },
     {
       "expression": "google.com",
       "listType": "WHITE",
-      "storeId": "firefox-container-11",
+      "storeId": "firefox-container-7",
       "cookieNames": [],
       "id": "5CAcg0MRC"
     },
     {
       "expression": "mail.google.com",
       "listType": "WHITE",
-      "storeId": "firefox-container-11",
+      "storeId": "firefox-container-7",
       "cookieNames": [],
       "id": "wdTwTAMd5"
     },
     {
       "expression": "myaccount.google.com",
       "listType": "WHITE",
-      "storeId": "firefox-container-11",
-      "cookieNames": [],
-      "id": "k5PogdaT5"
-    }
-  ],
-  "firefox-container-10": [
-    {
-      "expression": "*.facebook.com",
-      "listType": "WHITE",
-      "storeId": "firefox-container-10",
-      "cookieNames": [],
-      "id": "_NYr_PFKW"
-    }
-  ],
-  "firefox-container-13": [],
-  "firefox-container-16": [
-    {
-      "expression": "accounts.google.co.il",
-      "listType": "WHITE",
-      "storeId": "firefox-container-16",
-      "cookieNames": [],
-      "id": "FzfTKndZi"
-    },
-    {
-      "expression": "accounts.google.com",
-      "listType": "WHITE",
-      "storeId": "firefox-container-16",
-      "cookieNames": [],
-      "id": "Gl4QiTHSt"
-    },
-    {
-      "expression": "contacts.google.com",
-      "listType": "WHITE",
-      "storeId": "firefox-container-16",
-      "cookieNames": [],
-      "id": "KycavlIBd"
-    },
-    {
-      "expression": "google.co.il",
-      "listType": "WHITE",
-      "storeId": "firefox-container-16",
-      "cookieNames": [],
-      "id": "kS50-QZP9"
-    },
-    {
-      "expression": "google.com",
-      "listType": "WHITE",
-      "storeId": "firefox-container-16",
-      "cookieNames": [],
-      "id": "enicrvkYm"
-    },
-    {
-      "expression": "mail.google.com",
-      "listType": "WHITE",
-      "storeId": "firefox-container-16",
-      "cookieNames": [],
-      "id": "z1XCRuYPT"
-    },
-    {
-      "expression": "myaccount.google.com",
-      "listType": "WHITE",
-      "storeId": "firefox-container-16",
-      "cookieNames": [],
-      "id": "2HB2lJ8Nt"
-    },
-    {
-      "expression": "photos.google.co.il",
-      "listType": "WHITE",
-      "storeId": "firefox-container-16",
-      "cookieNames": [],
-      "id": "5cHkzKg9S"
-    },
-    {
-      "expression": "photos.google.com",
-      "listType": "WHITE",
-      "storeId": "firefox-container-16",
-      "cookieNames": [],
-      "id": "f7Mw8l3su"
-    }
-  ],
-  "firefox-container-15": [
-    {
-      "expression": "*.aliexpress.com",
-      "listType": "WHITE",
-      "storeId": "firefox-container-15",
-      "cookieNames": [],
-      "id": "Y5zRXfHyH"
-    }
-  ],
-  "firefox-container-17": [
-    {
-      "expression": "*.bankleumi.co.il",
-      "listType": "WHITE",
-      "storeId": "firefox-container-17",
-      "cookieNames": [],
-      "id": "m3PHMX2HR"
-    },
-    {
-      "expression": "halman.financezone.co.il",
-      "listType": "WHITE",
-      "storeId": "firefox-container-17",
-      "cookieNames": [],
-      "id": "1BgemVxna"
-    }
-  ],
-  "firefox-container-14": [],
-  "firefox-container-18": [
-    {
-      "expression": "*.facebook.com",
-      "listType": "WHITE",
-      "storeId": "firefox-container-18",
-      "cookieNames": [],
-      "id": "4pLRuB5T6"
-    }
-  ],
-  "firefox-container-7": [
-    {
-      "expression": "*.amazon.com",
-      "listType": "WHITE",
       "storeId": "firefox-container-7",
       "cookieNames": [],
-      "id": "p_JXJpN1H"
-    }
-  ],
-  "firefox-container-9": [
-    {
-      "expression": "*.facebook.com",
-      "listType": "WHITE",
-      "storeId": "firefox-container-9",
-      "cookieNames": [],
-      "id": "RAGc2kQWB"
+      "id": "k5PogdaT5"
     },
     {
-      "expression": "*.facebookcorewwwi.onion/",
+      "expression": "script.google.com",
       "listType": "WHITE",
-      "storeId": "firefox-container-9",
+      "storeId": "firefox-container-7",
+      "cleanLocalStorage": false,
       "cookieNames": [],
-      "id": "g7yErIUMp"
-    }
-  ],
-  "firefox-container-8": [
-    {
-      "expression": "*.ebay.com",
-      "listType": "WHITE",
-      "storeId": "firefox-container-8",
-      "cookieNames": [],
-      "id": "XsJmSe0Wl"
+      "id": "NZzaatLBj"
     }
   ],
   "firefox-container-6": [
     {
-      "expression": "*.alibaba.com",
+      "expression": "*.facebook.com",
       "listType": "WHITE",
       "storeId": "firefox-container-6",
       "cookieNames": [],
-      "id": "mpjLvGMHe"
+      "id": "_NYr_PFKW"
+    }
+  ],
+  "firefox-container-8": [
+    {
+      "expression": "*.reddit.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-8",
+      "cookieNames": [],
+      "id": "Wonpin0qZ"
+    }
+  ],
+  "firefox-container-15": [
+    {
+      "expression": "*.spotify.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-15",
+      "cookieNames": [],
+      "id": "NCP-mL7eu"
+    }
+  ],
+  "firefox-container-14": [
+    {
+      "expression": "*.deezer.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-14",
+      "cookieNames": [],
+      "id": "D-cBXIqSf"
+    }
+  ],
+  "firefox-container-16": [
+    {
+      "expression": "*.amazon.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-16",
+      "cookieNames": [],
+      "id": "p_JXJpN1H"
+    }
+  ],
+  "firefox-container-19": [
+    {
+      "expression": "*.facebookcorewwwi.onion",
+      "listType": "WHITE",
+      "storeId": "firefox-container-19",
+      "cookieNames": [],
+      "id": "21fhufVeL"
+    }
+  ],
+  "firefox-container-12": [
+    {
+      "expression": "*.ebay.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-12",
+      "cookieNames": [],
+      "id": "XsJmSe0Wl"
+    }
+  ],
+  "firefox-container-13": [
+    {
+      "expression": "web.whatsapp.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-13",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "4cbd9hKSC"
     }
   ]
 }
