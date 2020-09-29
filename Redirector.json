@@ -1,0 +1,212 @@
+{
+    "createdBy": "Redirector v3.5.3",
+    "createdAt": "2020-09-29T11:19:51.800Z",
+    "redirects": [
+        {
+            "description": "Wikipedia no mobile",
+            "exampleUrl": "https://he.m.wikipedia.org/wiki/%D7%93%D7%9E%D7%95%D7%93%D7%A7%D7%A1",
+            "exampleResult": "https://he.wikipedia.org/wiki/%D7%93%D7%9E%D7%95%D7%93%D7%A7%D7%A1",
+            "error": null,
+            "includePattern": "^https:\\/\\/(.*?)\\.m\\.wikipedia\\.org\\/(.*)",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://$1.wikipedia.org/$2",
+            "patternType": "R",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "Facebook no mobile",
+            "exampleUrl": "https://m.facebook.com/story.php?story_fbid=2625566924206780&id=141676752595822",
+            "exampleResult": "https://facebook.com/story.php?story_fbid=2625566924206780&id=141676752595822",
+            "error": null,
+            "includePattern": "^https:\\/\\/m\\.facebook\\.com\\/(.*)",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://facebook.com/$1",
+            "patternType": "R",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "Invidious",
+            "exampleUrl": "https://invidiou.sh/embed/9HimzZ6QG2o",
+            "exampleResult": "https://invidiou.site/embed/9HimzZ6QG2o",
+            "error": null,
+            "includePattern": "http(s)?://(www.)?(invidiou.sh|invidio.us|youtube.com|youtu.be|invidious.snopyta.org|watch.nettohikari.com|yewtu.be|invidious.13ad.de)/(.*)",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://invidiou.site/$4",
+            "patternType": "R",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame",
+                "sub_frame"
+            ]
+        },
+        {
+            "description": "Technion Zoom Meetings",
+            "exampleUrl": "https://technion.zoom.us/j/979387823?uname=%D7%93%D7%95%D7%A8%D7%95%D7%9F%20%D7%91%D7%9B%D7%A8",
+            "exampleResult": "http://urlecho.appspot.com/echo?status=200&Content-Type=text%2Fhtml&body=%3Ca%20href%3D%22https%3A%2F%2Ftechnion.zoom.us%2Fj%2F979387823%22%3Ehttps%3A%2F%2Ftechnion.zoom.us%2Fj%2F979387823%3C%2Fa%3E",
+            "error": null,
+            "includePattern": "(https://technion.zoom.us/j/[0-9]+)\\??.*",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "http://urlecho.appspot.com/echo?status=200&Content-Type=text%2Fhtml&body=%3Ca%20href%3D%22$1%22%3E$1%3C%2Fa%3E",
+            "patternType": "R",
+            "processMatches": "urlEncode",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "Stop Facebook tracking",
+            "exampleUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Fcutt.ly%2Fwtnctpz%3Ffbclid%3DIwAR3T_rPrxN8VcDgHIjONkth-yV2pslT7uoDajpqDmPQAWM5xEVAfXjT-srw&h=AT2kJ1frSCd79TpDYhszXaJ43-AgEsYGYLgtlFDKViZ_8hSXRojBwxCIj9H15ZdxnfyLeP39J64IvJZJreeqL6r0BLt1Bc-WOyPy5Ggf3Xaaci-patTUCg1SXZVDqvyqSXJrYK95ASsT0X9hYb9LlMrs00yl5AdDoMp5LVa2Xu4UTY8sZwEVgneDvR-9AKyah0Vy0JI9KQXLXu2RYdBcIkz7M7Y_l6YdKWtomxKgJ8q-WatRc_MM2fyO5-iDnlIOnSpna_wxEWmBRT1LtT0MkSIPnBfJPxxpZRWXAXFUJpwLIvL15ZtV8x9vCFvljHs3fD8ltbfo98-Azgdxh0aCTBYiynt6WTWH4P4v52-bDi7P85F8Zhyfrd6A65DQ14nCHBFcX3HShn5DJ2EgH8AsJmG67V07Zzi7V0MpyVQzgcRxIsRiFn4oxdRcfxl4DDXeXYHYSNUhytxrI3Fop73UcrBOkwXqTEqh6WynlpV6DYKIC3rgv_hDHLNZs78lQZ6i4VR0Qr5rHLcoX8YWKLHovujV-8onm-zrX48aO7oV2Uu6R5zRT4Y2TJKeYfIGZS71jA-YXw0nkudqAh4fxhBwE7DGXP_dRZvbaVfWZb9FPiqn45vlucvYpgSc6l5Bmvicjbd3Y2ZiT25j6_3fgLIdGRHCBUlcCHZPXlKI-Cig5LbB",
+            "exampleResult": "https://cutt.ly/wtnctpz",
+            "error": null,
+            "includePattern": "https://l.facebook.com/l\\.php\\?u=(.*)%3Ffbclid%3D.*",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "$1",
+            "patternType": "R",
+            "processMatches": "urlDecode",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "desmos - go straight to graph",
+            "exampleUrl": "https://www.desmos.com/",
+            "exampleResult": "https://www.desmos.com/calculator",
+            "error": null,
+            "includePattern": "https?://(www\\.)?desmos.com/?$",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://www.desmos.com/calculator",
+            "patternType": "R",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "Moodle automatically redirecto to login page",
+            "exampleUrl": "https://moodle.technion.ac.il/enrol/index.php?id=1537",
+            "exampleResult": "https://moodle.technion.ac.il/login/index.php",
+            "error": null,
+            "includePattern": "https://moodle.technion.ac.il/enrol/index.php\\?id=[0-9]+",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://moodle.technion.ac.il/login/index.php",
+            "patternType": "R",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "gitter -> Riot",
+            "exampleUrl": "https://gitter.im/neovim/neovim",
+            "exampleResult": "https://app.element.io/#/room/#gitter_neovim=2Fneovim:matrix.org",
+            "error": null,
+            "includePattern": "https://gitter.im/([^/]+)/([^/]+)",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://app.element.io/#/room/#gitter_$1=2F$2:matrix.org",
+            "patternType": "R",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "IRC@freenode -> riot",
+            "exampleUrl": "https://client01.chat.mibbit.com/?url=irc%3A%2F%2Firc.freenode.net%2F%23tinc",
+            "exampleResult": "https://app.element.io/#/room/#freenode_#tinc:matrix.org",
+            "error": null,
+            "includePattern": "https:\\/\\/client[0-9]+.chat.mibbit.com\\/\\?url=irc(s)?%3A%2F%2F(irc|chat)\\.freenode\\.net(%3A6697%2F%23|%2F%23)([-_a-zA-Z]+)",
+            "excludePattern": "",
+            "patternDesc": "https://client00.chat.mibbit.com/?url=ircs%3A%2F%2Fchat.freenode.net%3A6697%2F%23pidgin",
+            "redirectUrl": "https://app.element.io/#/room/#freenode_#$4:matrix.org",
+            "patternType": "R",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "IRC@freenode -> riot",
+            "exampleUrl": "https://webchat.freenode.net/#octave",
+            "exampleResult": "https://app.element.io/#/room/#freenode_#octave:matrix.org",
+            "error": null,
+            "includePattern": "https:\\/\\/webchat.freenode.net\\/#(.*)",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://app.element.io/#/room/#freenode_#$1:matrix.org",
+            "patternType": "R",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "Redirect octave docs to latest version",
+            "exampleUrl": "https://octave.org/doc/v4.2.1/Entering-Debug-Mode.html#Entering-Debug-Mode",
+            "exampleResult": "https://octave.org/doc/v5.2.0/Entering-Debug-Mode.html#Entering-Debug-Mode",
+            "error": null,
+            "includePattern": "https:\\/\\/octave.org\\/doc\\/v[0-9.]+/(.*)",
+            "excludePattern": "",
+            "patternDesc": "Octave version bump",
+            "redirectUrl": "https://octave.org/doc/v5.2.0/$1",
+            "patternType": "R",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "Disable wolfram cloud testing me with invalid reference URLs",
+            "exampleUrl": "https://reference.test.wolframcloud.com/cloudplatform/ref/Coefficient.html?q=Coefficient",
+            "exampleResult": "https://reference.wolframcloud.com/cloudplatform/ref/Coefficient.html?q=Coefficient",
+            "error": null,
+            "includePattern": "https://reference.test.wolframcloud.com/(.*)",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://reference.wolframcloud.com/$1",
+            "patternType": "R",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame",
+                "sub_frame"
+            ]
+        }
+    ]
+}
