@@ -488,6 +488,7 @@
 *.messengerdevelopers.com , Facebook (real)
 *.mturk.com , Amazon
 *.nest.com , Google
+*.netflix.com , Netflix
 *.oculus.com , Facebook (real)
 *.oculusbrand.com , Facebook (real)
 *.oculusforbusiness.com , Facebook (real)
@@ -507,6 +508,7 @@
 *.shopbop.com , Amazon
 *.sidewalklabs.com , Google
 *.souq.com , Amazon
+*.splitwise.com , Finance
 *.spotify.com , Spotify
 *.stackdriver.com , Google
 *.t.co , Twitter
@@ -558,5 +560,6 @@ mail.google.com , Gmail
 myaccount.google.com , Gmail
 photos.google.co.il , Gmail
 photos.google.com , Gmail
+secure.splitwise.com , Finance
 takeout.google.com , Gmail
 web.whatsapp.com , WhatsApp Web
