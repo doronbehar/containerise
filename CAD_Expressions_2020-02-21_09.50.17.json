@@ -1452,7 +1452,28 @@
       "storeId": "firefox-container-13",
       "cleanLocalStorage": false,
       "cookieNames": [],
-      "id": "4cbd9hKSC"
+      "id": "TdaedS-4pga",
+      "cleanSiteData": []
+    }
+  ],
+  "firefox-container-22": [
+    {
+      "expression": "*.netflix.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-22",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "SFMkZe86W"
+    }
+  ],
+  "firefox-container-20": [
+    {
+      "expression": "*.max.co.il",
+      "listType": "WHITE",
+      "storeId": "firefox-container-20",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "DGMlbRV9z"
     }
   ]
 }
