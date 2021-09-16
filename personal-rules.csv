@@ -462,7 +462,6 @@
 *.googlemail.com , Google
 *.googlemaps.com , Google
 *.googlepagecreator.com , Google
-*.googlescholar.com , Google
 *.googlesource.com , Google
 *.googlesyndication.com , Google
 *.googletagmanager.com , Google
@@ -565,4 +564,6 @@ photos.google.com , Gmail
 script.google.com , Gmail
 secure.splitwise.com , Finance
 takeout.google.com , Gmail
+scholar.google.com , Gmail
+*.googlescholar.com , Gmail
 web.whatsapp.com , WhatsApp Web
