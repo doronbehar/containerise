@@ -1550,11 +1550,11 @@
       "cleanSiteData": []
     }
   ],
-  "firefox-container-7": [
+  "firefox-container-13": [
     {
       "expression": "accounts.google.co.il",
       "listType": "WHITE",
-      "storeId": "firefox-container-7",
+      "storeId": "firefox-container-13",
       "cookieNames": [],
       "id": "HFpCqVKNweE",
       "cleanSiteData": []
@@ -1562,7 +1562,7 @@
     {
       "expression": "accounts.google.com",
       "listType": "WHITE",
-      "storeId": "firefox-container-7",
+      "storeId": "firefox-container-13",
       "cookieNames": [],
       "id": "2nxE4EYPEOA",
       "cleanSiteData": []
@@ -1570,7 +1570,7 @@
     {
       "expression": "contacts.google.com",
       "listType": "WHITE",
-      "storeId": "firefox-container-7",
+      "storeId": "firefox-container-13",
       "cookieNames": [],
       "id": "yDpnhWHwKS9",
       "cleanSiteData": []
@@ -1578,7 +1578,7 @@
     {
       "expression": "drive.google.com",
       "listType": "WHITE",
-      "storeId": "firefox-container-7",
+      "storeId": "firefox-container-13",
       "cookieNames": [],
       "id": "GMWuuJCXQnG",
       "cleanSiteData": []
@@ -1586,7 +1586,7 @@
     {
       "expression": "google.co.il",
       "listType": "WHITE",
-      "storeId": "firefox-container-7",
+      "storeId": "firefox-container-13",
       "cookieNames": [],
       "id": "g49INSJLhhb",
       "cleanSiteData": []
@@ -1594,7 +1594,7 @@
     {
       "expression": "google.com",
       "listType": "WHITE",
-      "storeId": "firefox-container-7",
+      "storeId": "firefox-container-13",
       "cookieNames": [],
       "id": "cxfrKMHFA6Y",
       "cleanSiteData": []
@@ -1602,7 +1602,7 @@
     {
       "expression": "mail.google.com",
       "listType": "WHITE",
-      "storeId": "firefox-container-7",
+      "storeId": "firefox-container-13",
       "cookieNames": [],
       "id": "VBOrm3pm8_b",
       "cleanSiteData": []
@@ -1610,7 +1610,7 @@
     {
       "expression": "myaccount.google.com",
       "listType": "WHITE",
-      "storeId": "firefox-container-7",
+      "storeId": "firefox-container-13",
       "cookieNames": [],
       "id": "1WW3hAZmvjp",
       "cleanSiteData": []
@@ -1618,7 +1618,7 @@
     {
       "expression": "script.google.com",
       "listType": "WHITE",
-      "storeId": "firefox-container-7",
+      "storeId": "firefox-container-13",
       "cleanLocalStorage": false,
       "cookieNames": [],
       "id": "Mt0Zn4d515p",
@@ -1706,21 +1706,21 @@
       "cleanSiteData": []
     }
   ],
-  "firefox-container-22": [
+  "firefox-container-16": [
     {
       "expression": "*.netflix.com",
       "listType": "WHITE",
-      "storeId": "firefox-container-22",
+      "storeId": "firefox-container-16",
       "cleanSiteData": [],
       "cookieNames": [],
       "id": "SFMkZe86W"
     }
   ],
-  "firefox-container-20": [
+  "firefox-container-11": [
     {
       "expression": "*.max.co.il",
       "listType": "WHITE",
-      "storeId": "firefox-container-20",
+      "storeId": "firefox-container-11",
       "cleanSiteData": [],
       "cookieNames": [],
       "id": "DGMlbRV9z"
