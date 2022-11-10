@@ -13,6 +13,7 @@
 *.adsense.com , Google
 *.advertisercommunity.com , Google
 *.adwords.com , Google
+*.agora.co.il , Finance
 *.ai.google , Google
 *.alexa.com , Amazon
 *.alibaba.com , Alibaba
@@ -78,7 +79,7 @@
 *.awscloud.com , Amazon
 *.awsevents.com , Amazon
 *.bankleumi.co.il , Finance
-*.max.co.il , Finance
+*.bezeqint.net , Finance
 *.blog.google , Google
 *.blogger.com , Google
 *.blogspot.ae , Google
@@ -164,6 +165,7 @@
 *.chromebook.com , Google
 *.chromecast.com , Google
 *.chromium.org , Google
+*.cloud.google.com , Gmail
 *.cobrasearch.com , Google
 *.com.google , Google
 *.comixology.com , Amazon
@@ -237,6 +239,7 @@
 *.gallery.io , Google
 *.ggoogle.com , Google
 *.ggpht.com , Google
+*.giventake.net , Finance
 *.gmodules.com , Google
 *.gogle.com , Google
 *.gogole.com , Google
@@ -462,6 +465,7 @@
 *.googlemail.com , Google
 *.googlemaps.com , Google
 *.googlepagecreator.com , Google
+*.googlescholar.com , Gmail
 *.googlesource.com , Google
 *.googlesyndication.com , Google
 *.googletagmanager.com , Google
@@ -484,6 +488,7 @@
 *.m.me , Facebook (real)
 *.madewithcode.com , Google
 *.material.io , Google
+*.max.co.il , Finance
 *.messenger.com , Facebook (real)
 *.messengerdevelopers.com , Facebook (real)
 *.mturk.com , Amazon
@@ -540,6 +545,7 @@
 *.www.workplace.com , Facebook (real)
 *.x.company , Google
 *.xiami.com , Alibaba
+*.yad2.co.il , Finance
 *.youtu.be , Google
 *.youtube-nocookie.com , Google
 *.youtube.com , Google
@@ -556,14 +562,16 @@ drive.google.com , Gmail
 googleusercontent.com , Gmail
 groups.google.com , Gmail
 halman.financezone.co.il , Finance
+keep.google.com , Gmail
+madlan.co.il , Finance
 mail-settings.google.com , Gmail
 mail.google.com , Gmail
 myaccount.google.com , Gmail
 photos.google.co.il , Gmail
 photos.google.com , Gmail
+scholar.google.com , Gmail
 script.google.com , Gmail
 secure.splitwise.com , Finance
 takeout.google.com , Gmail
-scholar.google.com , Gmail
-*.googlescholar.com , Gmail
 web.whatsapp.com , WhatsApp Web
+yad2.co.il , Finance
