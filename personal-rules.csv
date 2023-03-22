@@ -176,6 +176,7 @@
 *.design.google , Google
 *.developers.google.com , Gmail
 *.dingtalk.com , Alibaba
+*.discord.com , Discord
 *.domains.google , Google
 *.doubleclick.com , Google
 *.doubleclick.net , Google
@@ -574,4 +575,5 @@ script.google.com , Gmail
 secure.splitwise.com , Finance
 takeout.google.com , Gmail
 web.whatsapp.com , WhatsApp Web
+wolt.com , Finance
 yad2.co.il , Finance
