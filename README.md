@@ -51,3 +51,9 @@ Lint using eslint.
 #### `yarn web-ext`
 Runs web-ext process to debug the extension on Firefox. See [web-ext docs](https://github.com/mozilla/web-ext) <br/>
 To live reload the extension, start this process in a new tab after starting `yarn webpack` process.
+
+# Other Links
+
+Containerise fork:
+
+https://addons.mozilla.org/en-US/developers/addon/a69ff1d4f71c483abefb/versions/4759907
