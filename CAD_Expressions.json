@@ -1854,11 +1854,11 @@
       "cleanSiteData": []
     }
   ],
-  "firefox-container-7": [
+  "firefox-container-13": [
     {
       "expression": "*.google.com",
       "listType": "WHITE",
-      "storeId": "firefox-container-7",
+      "storeId": "firefox-container-13",
       "cleanSiteData": [],
       "cookieNames": [],
       "id": "B7j-YTXlx"
@@ -1866,7 +1866,7 @@
     {
       "expression": "accounts.google.co.il",
       "listType": "WHITE",
-      "storeId": "firefox-container-7",
+      "storeId": "firefox-container-13",
       "cookieNames": [],
       "id": "HFpCqVKNweE",
       "cleanSiteData": []
@@ -1874,7 +1874,7 @@
     {
       "expression": "accounts.google.com",
       "listType": "WHITE",
-      "storeId": "firefox-container-7",
+      "storeId": "firefox-container-13",
       "cookieNames": [],
       "id": "2nxE4EYPEOA",
       "cleanSiteData": []
@@ -1882,7 +1882,7 @@
     {
       "expression": "contacts.google.com",
       "listType": "WHITE",
-      "storeId": "firefox-container-7",
+      "storeId": "firefox-container-13",
       "cookieNames": [],
       "id": "yDpnhWHwKS9",
       "cleanSiteData": []
@@ -1890,7 +1890,7 @@
     {
       "expression": "drive.google.com",
       "listType": "WHITE",
-      "storeId": "firefox-container-7",
+      "storeId": "firefox-container-13",
       "cookieNames": [],
       "id": "GMWuuJCXQnG",
       "cleanSiteData": []
@@ -1898,7 +1898,7 @@
     {
       "expression": "google.co.il",
       "listType": "WHITE",
-      "storeId": "firefox-container-7",
+      "storeId": "firefox-container-13",
       "cookieNames": [],
       "id": "g49INSJLhhb",
       "cleanSiteData": []
@@ -1906,7 +1906,7 @@
     {
       "expression": "google.com",
       "listType": "WHITE",
-      "storeId": "firefox-container-7",
+      "storeId": "firefox-container-13",
       "cookieNames": [],
       "id": "cxfrKMHFA6Y",
       "cleanSiteData": []
@@ -1914,7 +1914,7 @@
     {
       "expression": "mail.google.com",
       "listType": "WHITE",
-      "storeId": "firefox-container-7",
+      "storeId": "firefox-container-13",
       "cookieNames": [],
       "id": "VBOrm3pm8_b",
       "cleanSiteData": []
@@ -1922,7 +1922,7 @@
     {
       "expression": "myaccount.google.com",
       "listType": "WHITE",
-      "storeId": "firefox-container-7",
+      "storeId": "firefox-container-13",
       "cookieNames": [],
       "id": "1WW3hAZmvjp",
       "cleanSiteData": []
@@ -1930,58 +1930,58 @@
     {
       "expression": "script.google.com",
       "listType": "WHITE",
-      "storeId": "firefox-container-7",
+      "storeId": "firefox-container-13",
       "cleanLocalStorage": false,
       "cookieNames": [],
       "id": "Mt0Zn4d515p",
       "cleanSiteData": []
     }
   ],
-  "firefox-container-6": [
+  "firefox-container-19": [
     {
       "expression": "*.facebook.com",
       "listType": "WHITE",
-      "storeId": "firefox-container-6",
+      "storeId": "firefox-container-19",
       "cookieNames": [],
       "id": "rQK8v0QokBi",
       "cleanSiteData": []
     }
   ],
-  "firefox-container-8": [
+  "firefox-container-18": [
     {
       "expression": "*.reddit.com",
       "listType": "WHITE",
-      "storeId": "firefox-container-8",
+      "storeId": "firefox-container-18",
       "cookieNames": [],
       "id": "Te26p2s2yHm",
       "cleanSiteData": []
     }
   ],
-  "firefox-container-15": [
+  "firefox-container-16": [
     {
       "expression": "*.spotify.com",
       "listType": "WHITE",
-      "storeId": "firefox-container-15",
+      "storeId": "firefox-container-16",
       "cookieNames": [],
       "id": "FrUmc2e7PRT",
       "cleanSiteData": []
     }
   ],
-  "firefox-container-14": [
+  "firefox-container-7": [
     {
       "expression": "*.deezer.com",
       "listType": "WHITE",
-      "storeId": "firefox-container-14",
+      "storeId": "firefox-container-7",
       "cookieNames": [],
       "id": "IHoEZMsjmFs",
       "cleanSiteData": []
     }
   ],
-  "firefox-container-16": [
+  "firefox-container-11": [
     {
       "expression": "*.amazon.com",
       "listType": "WHITE",
-      "storeId": "firefox-container-16",
+      "storeId": "firefox-container-11",
       "cookieNames": [],
       "id": "RS3MhqPbIDT",
       "cleanSiteData": []
@@ -1989,48 +1989,48 @@
     {
       "expression": "*.bookdepository.com",
       "listType": "WHITE",
-      "storeId": "firefox-container-16",
+      "storeId": "firefox-container-11",
       "cleanSiteData": [],
       "cookieNames": [],
       "id": "5ScO4Odus"
     }
   ],
-  "firefox-container-19": [
+  "firefox-container-8": [
     {
       "expression": "*.facebookcorewwwi.onion",
       "listType": "WHITE",
-      "storeId": "firefox-container-19",
+      "storeId": "firefox-container-8",
       "cookieNames": [],
       "id": "NkQjpEOi1-T",
       "cleanSiteData": []
     }
   ],
-  "firefox-container-12": [
+  "firefox-container-6": [
     {
       "expression": "*.ebay.com",
       "listType": "WHITE",
-      "storeId": "firefox-container-12",
+      "storeId": "firefox-container-6",
       "cookieNames": [],
       "id": "gryhS6JL2xu",
       "cleanSiteData": []
     }
   ],
-  "firefox-container-13": [
+  "firefox-container-12": [
     {
       "expression": "web.whatsapp.com",
       "listType": "WHITE",
-      "storeId": "firefox-container-13",
+      "storeId": "firefox-container-12",
       "cleanLocalStorage": false,
       "cookieNames": [],
       "id": "TdaedS-4pga",
       "cleanSiteData": []
     }
   ],
-  "firefox-container-22": [
+  "firefox-container-15": [
     {
       "expression": "*.netflix.com",
       "listType": "WHITE",
-      "storeId": "firefox-container-22",
+      "storeId": "firefox-container-15",
       "cleanSiteData": [],
       "cookieNames": [],
       "id": "SFMkZe86W"
@@ -2110,11 +2110,11 @@
       "id": "7OePeQYor"
     }
   ],
-  "firefox-container-23": [
+  "firefox-container-17": [
     {
       "expression": "*.discord.com",
       "listType": "WHITE",
-      "storeId": "firefox-container-23",
+      "storeId": "firefox-container-17",
       "cleanSiteData": [],
       "cookieNames": [],
       "id": "RtUaYuFbI"
