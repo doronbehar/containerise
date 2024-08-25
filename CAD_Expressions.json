@@ -17,6 +17,22 @@
       "id": "9ESu2pe5k"
     },
     {
+      "expression": "*.airbnb.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "MkzZI5l84"
+    },
+    {
+      "expression": "*.amd.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "ndtQ3TRyA"
+    },
+    {
       "expression": "*.amudanan.co.il",
       "listType": "WHITE",
       "storeId": "default",
@@ -39,6 +55,14 @@
       "id": "qdFXavAF-6",
       "cookieNames": [],
       "cleanSiteData": []
+    },
+    {
+      "expression": "*.arduino.cc",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "DSoWset00"
     },
     {
       "expression": "*.asat.org.il",
@@ -241,6 +265,22 @@
       "cleanSiteData": []
     },
     {
+      "expression": "*.clientam.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "XEMWFtY12"
+    },
+    {
+      "expression": "*.cloudflare.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "0eknzvzwp"
+    },
+    {
       "expression": "*.codeberg.org",
       "listType": "WHITE",
       "storeId": "default",
@@ -288,6 +328,14 @@
       "id": "sbIAWfWQRV6",
       "cookieNames": [],
       "cleanSiteData": []
+    },
+    {
+      "expression": "*.debian.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "zlgAyAMmL"
     },
     {
       "expression": "*.demonoid.pw",
@@ -344,6 +392,14 @@
       "id": "mj6IOBVYsIS",
       "cookieNames": [],
       "cleanSiteData": []
+    },
+    {
+      "expression": "*.ebsco.zone",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "l1RcXf8L9"
     },
     {
       "expression": "*.eclipse.org",
@@ -695,6 +751,14 @@
       "cleanSiteData": []
     },
     {
+      "expression": "*.kraken.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "CZ1TjXw_a"
+    },
+    {
       "expression": "*.last.fm",
       "listType": "WHITE",
       "storeId": "default",
@@ -749,6 +813,14 @@
       "id": "0oBRhf4n6sg",
       "cookieNames": [],
       "cleanSiteData": []
+    },
+    {
+      "expression": "*.linode.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "rrKY3KIn7"
     },
     {
       "expression": "*.linuxjournal.com",
@@ -831,6 +903,22 @@
       "cleanSiteData": []
     },
     {
+      "expression": "*.matplotlib.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "m7XG-pnsK"
+    },
+    {
+      "expression": "*.matsci.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "CW4X3OdMW"
+    },
+    {
       "expression": "*.mendeley.com",
       "listType": "WHITE",
       "storeId": "default",
@@ -853,6 +941,14 @@
       "cookieNames": [],
       "id": "yDPB_xug2-S",
       "cleanSiteData": []
+    },
+    {
+      "expression": "*.miluim.idf.il",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "hTX6m_6mg"
     },
     {
       "expression": "*.mindrot.org",
@@ -933,6 +1029,14 @@
       "id": "cuEpTTre3k1",
       "cookieNames": [],
       "cleanSiteData": []
+    },
+    {
+      "expression": "*.nanonets.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "2vwuVJtSL"
     },
     {
       "expression": "*.nextcloud.com",
@@ -1040,6 +1144,14 @@
       "cleanSiteData": []
     },
     {
+      "expression": "*.orcid.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "nvFshVM5W"
+    },
+    {
       "expression": "*.osmocom.org",
       "listType": "WHITE",
       "storeId": "default",
@@ -1096,6 +1208,14 @@
       "cleanSiteData": []
     },
     {
+      "expression": "*.peerx-press.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "WIF4C9LXY"
+    },
+    {
       "expression": "*.pfeiffer-vacuum.com",
       "listType": "WHITE",
       "storeId": "default",
@@ -1126,6 +1246,14 @@
       "id": "dNtT64OT936",
       "cookieNames": [],
       "cleanSiteData": []
+    },
+    {
+      "expression": "*.protonvpn.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "PrKPl6z6z"
     },
     {
       "expression": "*.psagot.co.il",
@@ -1159,6 +1287,14 @@
       "id": "PKNEuy_nOUA",
       "cookieNames": [],
       "cleanSiteData": []
+    },
+    {
+      "expression": "*.pypi.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "IrL3dJtCt"
     },
     {
       "expression": "*.python.org",
@@ -1201,12 +1337,36 @@
       "cleanSiteData": []
     },
     {
+      "expression": "*.readcoop.eu",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "00Y1fGN6Z"
+    },
+    {
       "expression": "*.reddit.com",
       "listType": "WHITE",
       "storeId": "default",
       "id": "ApIhhfketFR",
       "cookieNames": [],
       "cleanSiteData": []
+    },
+    {
+      "expression": "*.redpitaya.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "h7Og9gNnb"
+    },
+    {
+      "expression": "*.remote.it",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "JYIVOb4ED"
     },
     {
       "expression": "*.reviewable.io",
@@ -1233,6 +1393,14 @@
       "id": "KE36y2PAC"
     },
     {
+      "expression": "*.rtl-sdr.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "lha0GLuhI"
+    },
+    {
       "expression": "*.sagemath.org",
       "listType": "WHITE",
       "storeId": "default",
@@ -1241,12 +1409,28 @@
       "cleanSiteData": []
     },
     {
+      "expression": "*.sci-hub.ru",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "2VbmQZUxH"
+    },
+    {
       "expression": "*.searx.me",
       "listType": "WHITE",
       "storeId": "default",
       "id": "-D1Mt9RbApe",
       "cookieNames": [],
       "cleanSiteData": []
+    },
+    {
+      "expression": "*.sefaria.org.il",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "8ydoQSr0_"
     },
     {
       "expression": "*.serverfault.com",
@@ -1370,6 +1554,14 @@
       "cleanSiteData": []
     },
     {
+      "expression": "*.syncthing.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "zZAWQK78m"
+    },
+    {
       "expression": "*.teamviewer.com",
       "listType": "WHITE",
       "storeId": "default",
@@ -1441,6 +1633,22 @@
       "cookieNames": [],
       "id": "YaZrkIpwyUV",
       "cleanSiteData": []
+    },
+    {
+      "expression": "*.transkribus.eu",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "dUP8bFUPU"
+    },
+    {
+      "expression": "*.transkribus.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "Hx7NIf08V"
     },
     {
       "expression": "*.travis-ci.org",
@@ -1532,6 +1740,14 @@
       "cleanSiteData": []
     },
     {
+      "expression": "*.wiktionary.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "YjKIgHa_d"
+    },
+    {
       "expression": "*.windowsazure.com",
       "listType": "WHITE",
       "storeId": "default",
@@ -1588,12 +1804,28 @@
       "cleanSiteData": []
     },
     {
+      "expression": "*.xfce.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "eieAwnnn3"
+    },
+    {
       "expression": "*.xilinx.com",
       "listType": "WHITE",
       "storeId": "default",
       "cleanSiteData": [],
       "cookieNames": [],
       "id": "mir-fTVz3"
+    },
+    {
+      "expression": "*.xnes.co.il",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "rhN9Kg2c4"
     },
     {
       "expression": "*.yad2.co.il",
@@ -1749,6 +1981,22 @@
       "cleanSiteData": []
     },
     {
+      "expression": "forum.pythonguis.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "O7O2X2HC6"
+    },
+    {
+      "expression": "freshrss.prodottoinrete.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "k80teRYeg"
+    },
+    {
       "expression": "invidious.13ad.de",
       "listType": "WHITE",
       "storeId": "default",
@@ -1790,6 +2038,14 @@
       "cleanSiteData": []
     },
     {
+      "expression": "okcupid.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "YsB38IMXj"
+    },
+    {
       "expression": "passwordsgenerator.net",
       "listType": "WHITE",
       "storeId": "default",
@@ -1820,6 +2076,14 @@
       "id": "hh2b0MCHtuj",
       "cookieNames": [],
       "cleanSiteData": []
+    },
+    {
+      "expression": "sparknesua.ordernet.co.il",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "hxPFnHYWp"
     },
     {
       "expression": "technion.primo.exlibrisgroup.com",
@@ -1854,11 +2118,11 @@
       "cleanSiteData": []
     }
   ],
-  "firefox-container-13": [
+  "firefox-container-7": [
     {
       "expression": "*.google.com",
       "listType": "WHITE",
-      "storeId": "firefox-container-13",
+      "storeId": "firefox-container-7",
       "cleanSiteData": [],
       "cookieNames": [],
       "id": "B7j-YTXlx"
@@ -1866,7 +2130,7 @@
     {
       "expression": "accounts.google.co.il",
       "listType": "WHITE",
-      "storeId": "firefox-container-13",
+      "storeId": "firefox-container-7",
       "cookieNames": [],
       "id": "HFpCqVKNweE",
       "cleanSiteData": []
@@ -1874,7 +2138,7 @@
     {
       "expression": "accounts.google.com",
       "listType": "WHITE",
-      "storeId": "firefox-container-13",
+      "storeId": "firefox-container-7",
       "cookieNames": [],
       "id": "2nxE4EYPEOA",
       "cleanSiteData": []
@@ -1882,7 +2146,7 @@
     {
       "expression": "contacts.google.com",
       "listType": "WHITE",
-      "storeId": "firefox-container-13",
+      "storeId": "firefox-container-7",
       "cookieNames": [],
       "id": "yDpnhWHwKS9",
       "cleanSiteData": []
@@ -1890,7 +2154,7 @@
     {
       "expression": "drive.google.com",
       "listType": "WHITE",
-      "storeId": "firefox-container-13",
+      "storeId": "firefox-container-7",
       "cookieNames": [],
       "id": "GMWuuJCXQnG",
       "cleanSiteData": []
@@ -1898,7 +2162,7 @@
     {
       "expression": "google.co.il",
       "listType": "WHITE",
-      "storeId": "firefox-container-13",
+      "storeId": "firefox-container-7",
       "cookieNames": [],
       "id": "g49INSJLhhb",
       "cleanSiteData": []
@@ -1906,7 +2170,7 @@
     {
       "expression": "google.com",
       "listType": "WHITE",
-      "storeId": "firefox-container-13",
+      "storeId": "firefox-container-7",
       "cookieNames": [],
       "id": "cxfrKMHFA6Y",
       "cleanSiteData": []
@@ -1914,7 +2178,7 @@
     {
       "expression": "mail.google.com",
       "listType": "WHITE",
-      "storeId": "firefox-container-13",
+      "storeId": "firefox-container-7",
       "cookieNames": [],
       "id": "VBOrm3pm8_b",
       "cleanSiteData": []
@@ -1922,7 +2186,7 @@
     {
       "expression": "myaccount.google.com",
       "listType": "WHITE",
-      "storeId": "firefox-container-13",
+      "storeId": "firefox-container-7",
       "cookieNames": [],
       "id": "1WW3hAZmvjp",
       "cleanSiteData": []
@@ -1930,58 +2194,58 @@
     {
       "expression": "script.google.com",
       "listType": "WHITE",
-      "storeId": "firefox-container-13",
+      "storeId": "firefox-container-7",
       "cleanLocalStorage": false,
       "cookieNames": [],
       "id": "Mt0Zn4d515p",
       "cleanSiteData": []
     }
   ],
-  "firefox-container-19": [
+  "firefox-container-6": [
     {
       "expression": "*.facebook.com",
       "listType": "WHITE",
-      "storeId": "firefox-container-19",
+      "storeId": "firefox-container-6",
       "cookieNames": [],
       "id": "rQK8v0QokBi",
       "cleanSiteData": []
     }
   ],
-  "firefox-container-18": [
+  "firefox-container-8": [
     {
       "expression": "*.reddit.com",
       "listType": "WHITE",
-      "storeId": "firefox-container-18",
+      "storeId": "firefox-container-8",
       "cookieNames": [],
       "id": "Te26p2s2yHm",
       "cleanSiteData": []
     }
   ],
-  "firefox-container-16": [
+  "firefox-container-15": [
     {
       "expression": "*.spotify.com",
       "listType": "WHITE",
-      "storeId": "firefox-container-16",
+      "storeId": "firefox-container-15",
       "cookieNames": [],
       "id": "FrUmc2e7PRT",
       "cleanSiteData": []
     }
   ],
-  "firefox-container-7": [
+  "firefox-container-14": [
     {
       "expression": "*.deezer.com",
       "listType": "WHITE",
-      "storeId": "firefox-container-7",
+      "storeId": "firefox-container-14",
       "cookieNames": [],
       "id": "IHoEZMsjmFs",
       "cleanSiteData": []
     }
   ],
-  "firefox-container-11": [
+  "firefox-container-16": [
     {
       "expression": "*.amazon.com",
       "listType": "WHITE",
-      "storeId": "firefox-container-11",
+      "storeId": "firefox-container-16",
       "cookieNames": [],
       "id": "RS3MhqPbIDT",
       "cleanSiteData": []
@@ -1989,48 +2253,48 @@
     {
       "expression": "*.bookdepository.com",
       "listType": "WHITE",
-      "storeId": "firefox-container-11",
+      "storeId": "firefox-container-16",
       "cleanSiteData": [],
       "cookieNames": [],
       "id": "5ScO4Odus"
     }
   ],
-  "firefox-container-8": [
+  "firefox-container-19": [
     {
       "expression": "*.facebookcorewwwi.onion",
       "listType": "WHITE",
-      "storeId": "firefox-container-8",
+      "storeId": "firefox-container-19",
       "cookieNames": [],
       "id": "NkQjpEOi1-T",
       "cleanSiteData": []
     }
   ],
-  "firefox-container-6": [
+  "firefox-container-12": [
     {
       "expression": "*.ebay.com",
       "listType": "WHITE",
-      "storeId": "firefox-container-6",
+      "storeId": "firefox-container-12",
       "cookieNames": [],
       "id": "gryhS6JL2xu",
       "cleanSiteData": []
     }
   ],
-  "firefox-container-12": [
+  "firefox-container-13": [
     {
       "expression": "web.whatsapp.com",
       "listType": "WHITE",
-      "storeId": "firefox-container-12",
+      "storeId": "firefox-container-13",
       "cleanLocalStorage": false,
       "cookieNames": [],
       "id": "TdaedS-4pga",
       "cleanSiteData": []
     }
   ],
-  "firefox-container-15": [
+  "firefox-container-22": [
     {
       "expression": "*.netflix.com",
       "listType": "WHITE",
-      "storeId": "firefox-container-15",
+      "storeId": "firefox-container-22",
       "cleanSiteData": [],
       "cookieNames": [],
       "id": "SFMkZe86W"
@@ -2110,14 +2374,42 @@
       "id": "7OePeQYor"
     }
   ],
-  "firefox-container-17": [
+  "firefox-container-23": [
     {
       "expression": "*.discord.com",
       "listType": "WHITE",
-      "storeId": "firefox-container-17",
+      "storeId": "firefox-container-23",
       "cleanSiteData": [],
       "cookieNames": [],
       "id": "RtUaYuFbI"
+    }
+  ],
+  "firefox-container-11": [
+    {
+      "expression": "*.calendar.google.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-11",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "keuM0iOBp"
+    }
+  ],
+  "firefox-container-30": [
+    {
+      "expression": "*.chatgpt.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-30",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "pEORKZ39M"
+    },
+    {
+      "expression": "*.openai.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-30",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "_d-8bVQsu"
     }
   ]
 }

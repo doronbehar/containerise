@@ -556,7 +556,10 @@
 *.ytimg.com , Google
 *.yunos.com , Alibaba
 *.zappos.com , Amazon
+*.chatgpt.com , ChatGPT
+*.openai.com , ChatGPT
 accounts.google.co.il , Gmail
+forms.gle , Gmail
 accounts.google.com , Gmail
 apps.google.com , Gmail
 docs.google.com , Gmail
