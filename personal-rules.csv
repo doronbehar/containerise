@@ -161,6 +161,7 @@
 *.calicolabs.com , Google
 *.capitalg.com , Google
 *.cdninstagram.com , Facebook (real)
+*.chatgpt.com , ChatGPT
 *.chrome.com , Google
 *.chromebook.com , Google
 *.chromecast.com , Google
@@ -500,6 +501,7 @@
 *.oculusforbusiness.com , Facebook (real)
 *.oculusvr.com , Facebook (real)
 *.onavo.com , Facebook (real)
+*.openai.com , ChatGPT
 *.panoramio.com , Google
 *.pbs.twimg.com , Twitter
 *.picasa.com , Google
@@ -556,14 +558,12 @@
 *.ytimg.com , Google
 *.yunos.com , Alibaba
 *.zappos.com , Amazon
-*.chatgpt.com , ChatGPT
-*.openai.com , ChatGPT
 accounts.google.co.il , Gmail
-forms.gle , Gmail
 accounts.google.com , Gmail
 apps.google.com , Gmail
 docs.google.com , Gmail
 drive.google.com , Gmail
+forms.gle , Gmail
 googleusercontent.com , Gmail
 groups.google.com , Gmail
 halman.financezone.co.il , Finance
